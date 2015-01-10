@@ -1,6 +1,8 @@
 # Maze
 Project completed December 2013. https://www.youtube.com/watch?v=iGpXbk4GelI
 
+Full source code and graphics available to download here: https://www.dropbox.com/s/oeeqhatkeejoavf/Maze.zip?dl=0
+
 This  app    was    built    using    Xcode    5.0.1,    and    the    program    is    needed    to    compile    and    run    the    code.    To    view    the    code,    the    user    can    either    look    separately    though    the    .h    and    .m    files,    or    open    up    Maze.xcodeproj    using    Xcode    to    see    all    of    the    documents    in    a    folder.    Xcode    already    takes    care    of    compiling    and    pointing    out    bugs    in    the    code,    so    all    of    the files  are    already    included    in    the    Maze.zip    folder.       
 
 To  run    the    app    using    the    Xcode    simulator,    the    .xcodeproj    file    must    be    open.    Because    this    game    was    created    with    the    intention    of    using    it    on    iOS    7    iPhone,    it    will    not    be    able    to    run    on    previous    iOS    systems    or    any    other    Apple    devices,    unless    the    files    are    changed    to    specify    it.    However,    the    files    are    Xcode    3.2    compatible.       
